@@ -20,6 +20,7 @@
 
 int main()
 {
+    printf("Starting...\n");
     printf("Hello, world!\n");
 
     printf("Bye, world!\n");
