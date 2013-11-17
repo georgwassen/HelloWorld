@@ -24,6 +24,6 @@ int main()
     printf("Hello, world!\n");
     printf("What a beautiful wheather!\n");
     printf("Bye, world!\n");
-    printf("the end...\n");
+    printf("The End...\n");
 }
 
