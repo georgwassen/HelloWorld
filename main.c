@@ -23,5 +23,6 @@ int main()
     printf("Hello, world!\n");
 
     printf("Bye, world!\n");
+    printf("the end...\n");
 }
 
