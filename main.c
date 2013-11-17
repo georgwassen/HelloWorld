@@ -19,7 +19,7 @@
 #include <stdio.h>
 
 /*
- * this program does nothing helpful
+ * this program does nothing productive
  */
 int main()
 {
