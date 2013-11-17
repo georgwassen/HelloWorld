@@ -18,6 +18,9 @@
 
 #include <stdio.h>
 
+/*
+ * this program does nothing helpful
+ */
 int main()
 {
     printf("Starting...\n");
